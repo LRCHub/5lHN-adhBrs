@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ありがと、大好きになってくれて",
+  "base_artist": "恋太郎ファミリー",
+  "createdAt": "2025-12-20T08:30:55.059867Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ありがと、大好きになってくれて",
+      "artist": "恋太郎ファミリー",
+      "has_synced": true,
+      "path": "select/01_ありがと、大好きになってくれて_恋太郎ファミリー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ありがと、大好きになってくれて -Instrumental-",
+      "artist": "恋太郎ファミリー",
+      "has_synced": true,
+      "path": "select/02_ありがと、大好きになってくれて_-Instrumental-_恋太郎ファミリー.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ありがと、大好きになってくれて",
+      "artist": "恋太郎ファミリー",
+      "has_synced": false,
+      "path": "select/pl_01_ありがと、大好きになってくれて_恋太郎ファミリー.txt"
+    }
+  ]
+}
